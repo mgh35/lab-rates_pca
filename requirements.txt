@@ -1,1 +1,3 @@
-jupyterlab
+pandas
+quandl
+scikit-learn
